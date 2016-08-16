@@ -1,0 +1,129 @@
+.history-con {
+	width: 100%;
+}
+
+.history-header {
+	display: table;
+    margin: 0 auto;
+    margin-bottom: 15px; 
+}
+
+.history-header div {
+	display: inline-block;
+	text-align: center;
+}
+
+.history-header h4 span {
+	top: 15px;
+	font-weight: bold;
+}
+
+.history-header span {
+	position: relative;
+	white-space: nowrap;
+	line-height: 25px;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.history-logo {
+	width: 80px;
+	height: 80px;
+	background-color: none;
+	background-size: 100% 100%;
+	float: left;
+	margin: 0 0px;
+}
+
+.history-body {
+	margin-bottom: 50px;
+}
+
+.history-body .con-h {
+	padding: 5px 50px 50px 50px;
+}
+
+.con-h h2 {
+	margin-bottom: 30px;
+}
+
+.con-h {
+	margin-bottom: 20px;
+}
+
+.tab-h {
+	float: left;
+	width: 70px;
+	height: 10px;
+}
+
+.h-right-pic {
+	float: right;
+	width: 330px;
+	height: 230px;
+	background-color: none;
+	background-size: 100% 100%;
+	margin: 5 10 20 20;
+	box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.5) !important;
+}
+
+
+/*=====================================================
+  Mission Vision
+=======================================================*/
+
+.mv-con {
+	padding-bottom: 80px;
+}
+
+.watermark {
+	position: absolute;
+	padding-bottom: 80px;
+	background-repeat: no-repeat;
+	background-position: 100px 70px;
+	background-size: 450px;
+	opacity: 0.18;
+    filter: alpha(opacity=18);
+    width: 500px;
+    height: 500px;
+}
+}
+
+.mv-span{
+	padding: 10px 20px 50px 30px !important;
+}
+
+.mv-label {
+	margin-bottom: 10px;
+}
+
+.mv-label  span {
+	    font: normal normal normal 33px/1.1em 'Times New Roman',times,serif;
+  color: #1D4379;
+  
+}
+
+.mv-span span {
+	font-size: 17px;
+  color: black;
+}
+
+.mv-right-pic {
+	float: right;
+	width: 230px;
+	height: 350px;
+	background-color: none;
+	background-size: 100% 100%;
+	margin: 0 10 0 50;
+	box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.5) !important;
+}
+
+.mv-left-pic {
+	float: left;
+	width: 230px;
+	height: 150px;
+	background-color: none;
+	background-size: 100% 100%;
+	margin: -5 30 20 0;
+	box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.5) !important;
+}

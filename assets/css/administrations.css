@@ -1,0 +1,54 @@
+.s-label {
+	margin-bottom: 10px;
+}
+
+.s-label  span {
+	    font: normal normal normal 33px/1.1em 'Times New Roman',times,serif;
+  color: #1D4379;
+  
+}
+
+.s-con {
+	padding-top: 50px;
+}
+
+.s-con .row .row {
+	padding: 0 50px !important;
+}
+
+.s-con p {
+	margin: 0 0 0 0px !important; 
+}
+
+.s-center {
+	text-align: center;
+	margin: 10 0px;
+}
+
+.s-center h4 {
+	margin: 0 0 0 0px !important;
+}
+
+.s-4-con {
+
+}
+
+.s-4 {
+	padding: 20 0px;
+	margin: 10 10px;
+	background-color: #30414F;
+	color: white;
+	font-size: 12px;
+}
+
+.s-4 h4 {
+	font-size: 12px;
+}
+
+.col-sm-3 {
+	width: 30% !important;
+}
+
+.group-lavel {
+	margin: 20 30 0 0px;
+}

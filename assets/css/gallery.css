@@ -1,0 +1,16 @@
+.marg-10 {
+	margin: 10px !important;
+}
+
+.padding-5 {
+	padding:  5px !important;
+}
+
+.padding-5 div a {
+	padding: 5 5 5 10px !important;
+	border: none !important;
+}
+
+.padding-5 div a i {
+	margin-right: 10px; 
+}
